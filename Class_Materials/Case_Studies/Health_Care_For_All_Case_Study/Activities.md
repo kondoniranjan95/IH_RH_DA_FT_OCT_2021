@@ -1,9 +1,29 @@
 # Health Care for All Case Study
 
 - Can you explain what is the case study?
+	It is about a health care non profit organization that wants to increase their net revenue by reaching out more people.
+
+
 - Brainstorm on the possible sets of goals (questions that will help the business) that can be achieved with the data.
+	- The background (Sex, income, location, household status, immigrant etc. ) of the donors.
+	- Corelation between various variables in the data-set
+	- Identify the target group that will help to maximize the net revenue.
+	- Plan a marketing strategy to reach out potential donors. 
+	- Optimze and maximize the donation amount.
+	- Deviation from the target donation per household.  
+
+
 - List the key objectives/goals
+
+
+
+
 - What will be the steps that you would follow to conduct the analysis process?
+	- Define, Gather, Clean, Explore, Apply model, Validate
+
+
+
+
 
 The steps of the Data Analysis process to follow are:
 
