@@ -7,7 +7,7 @@
 
 ---
 
-**Day 2**
+**Day 4**
 
 
 ⏰  
@@ -17,37 +17,41 @@
   <tr>
    <td>9:00 -
 <p>
-10:10
+09:20
    </td>
-   <td>10:00: 10:10
-   </td>
-   <td>10:10 -
+   <td>09:20:
 <p>
-11:15
+09:35
    </td>
-   <td>11:15 - 11:20
+   <td>09:35 - 10:10
    </td>
-   <td>11:20- 12:55
+   <td>10:10 - 10:20
    </td>
-   <td>12:55: - 14:00
+   <td>10:20- 11:30
+   </td>
+   <td>11:30 - 11:45
+   </td>
+   <td>11:45 - 13:00
    </td>
    <td>14:00 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Team Building Workshop
+   <td>Warm up/ Coffee
+   </td>
+   <td>Q&A
+   </td>
+   <td>Data pipelining
    </td>
    <td>Break
    </td>
-   <td>Q&A and HK case study contd
+   <td>Linear regression
    </td>
    <td>Break
-   </td>
-   <td>Statistics Basics
-   </td>
-   <td>Launch Break
    </td>
    <td>Lab
+   </td>
+   <td>Lab / Presentations
    </td>
   </tr>
 </table>
@@ -63,6 +67,24 @@
 <table>
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 2</strong></h2>
+<p>
+<strong>Week 2 | Day4 `s Key Objectives:</strong>
+<ul>
+
+<li>Data Pipelining
+
+<li>Linear Regression
+
+<p>
+<strong>Week 2 | Day3 `s Key Objectives:</strong>
+<ul>
+
+<li>Correlation and correlation Matrix
+
+<li>Plotting using Matplotlib and seaborn
+
+<li>Exploratory Data Analysis
+
 <p>
 <strong>Week 2 | Day2 `s Key Objectives:</strong>
 <ul>
@@ -82,6 +104,10 @@
 <li>HealthCare For All Case Study
 
 <li>Data Cleaning using Pandas
+</li>
+</ul>
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -123,35 +149,35 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1Q4YyrtuZWmODE2PRrWNL2T3ys9NTZWkX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
-<p>
-<br>
-<p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_2</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1RP1DE_Tm8rOFKehDX0Zf6PeC0ffm8dLz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] EDA with plotting</a>
+   <td><a href="https://docs.google.com/presentation/d/1Q4YyrtuZWmODE2PRrWNL2T3ys9NTZWkX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Notebook_Code_Along_Matplotlib_Seaborn-Stucture.ipynb">[Notebook] EDA with plotting</a>
+<a href="https://docs.google.com/presentation/d/1SpJogytP9jYR7WMnkawTKJ8mzgZ9WUt-/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] EDA with plotting</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Notebook_Code_Along_Matplotlib_Seaborn_Complete.ipynb">[Notebook] EDA with plotting</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Seaborn</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA_Round_3</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Seaborn.pdf">[Cheat Sheet] Seaborn</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_3</a>
    </td>
    <td>[Linear Regression Overview]
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Code_Along] Data_Pipelining</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Code_Along] Data_Pipelining</a>
 <p>
 <br>
 <p>
@@ -159,7 +185,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA_Round_4</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_4</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1IRgPY8aaoev3PTvEtoQ7q2yRx4zGzssv/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Pandas Joining, Grouping</a>
 <p>
