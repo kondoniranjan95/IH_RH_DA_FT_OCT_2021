@@ -7,7 +7,7 @@
 
 ---
 
-**Day 3**
+**Day 5**
 
 ⏰  
 
@@ -16,13 +16,13 @@
   <tr>
    <td>9:00 -
 <p>
-09:20
+09:25
    </td>
-   <td>09:20:
+   <td>09:25:
 <p>
-09:40
+09:45
    </td>
-   <td>09:40 - 10:15
+   <td>09:45 - 10:15
    </td>
    <td>10:15- 10:25
    </td>
@@ -30,11 +30,13 @@
    </td>
    <td>11:45 - 11:55
    </td>
-   <td>11:55 - 12:45
+   <td>11:55 - 13:00
    </td>
-   <td>12:45 - 14:00
+   <td>13:00 - 14:00
    </td>
-   <td>14:00 - 18:00
+   <td>14:00 - 15:15
+   </td>
+   <td>15:15 - 18:00
    </td>
   </tr>
   <tr>
@@ -42,17 +44,19 @@
    </td>
    <td>Q&A
    </td>
-   <td>Subqueries
+   <td>Tableau
    </td>
    <td>Break
    </td>
-   <td>Temporary table/ views
+   <td>Tableau, Storytelling
    </td>
    <td>Break
    </td>
-   <td>Connect Python to Mysql
+   <td>Weekly Recap / Mongo
    </td>
    <td>Lunch Break
+   </td>
+   <td>Weekly Retro
    </td>
    <td>Lab
    </td>
@@ -70,6 +74,30 @@
 <table>
   <tr>
    <td colspan="5" ><strong>Week 3</strong>
+<p>
+<strong>Week 3 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Storytelling with Data
+
+<li>Data Visualization
+
+<li>Tableau
+
+<li>MongoDB
+
+<li>Weekly Recap
+
+<p>
+<strong>Week 3 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Data Warehousing
+
+<li>Data Visualization
+
+<li>Tableau
+
 <p>
 <strong>Week 3 | Day 3 `s Learning Objectives:</strong>
 <ul>
@@ -97,6 +125,10 @@
 <li>Relational Databases
 
 <li>SQL Queries
+</li>
+</ul>
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -164,7 +196,13 @@
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/13mSW3I67S5J49XsDRVC1YJ_wPjqku1Vn/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
+   <td><a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1vZnoHc3q5ojNnKHaFwuTK7j7VLZ99sm7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Warehousing</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1_u6IJAzdUadrMM-yT6mwNYVi1gUMqXfq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
 <p>
 <br>
 <p>
@@ -172,23 +210,21 @@
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1vZnoHc3q5ojNnKHaFwuTK7j7VLZ99sm7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1vZnoHc3q5ojNnKHaFwuTK7j7VLZ99sm7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Warehousing</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Tableau</a>
 <p>
 <br>
 <p>
-[Activity] Tableau 
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Tableau</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_GroupBy.md">[Lab] (Optional) SQL Group By</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1FDhOzlnqOdpzzwDvlCj3WA445A-m5vo0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Tableau </a>
+   <td><a href="https://docs.google.com/presentation/d/1_r3eRSgP68AXpAIISjXao9lT90bdgjYx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Tableau </a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1BCxSGxOgZ4NihLul36NUf5ZDJUhtJLv8/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
+<a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1sEdfwMIBDLUBliS7vsGbfOW-rybk_DFG0MGyQMJyfsc/edit?usp=sharing">Weekly Recap</a>
 <p>
 <br>
 <p>
@@ -196,15 +232,15 @@
 <p>
 <br>
 <p>
-Weekly Recap
-<p>
-<br>
-<p>
 Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">LAB] Tableau</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Tableau</a>
+<p>
+<br>
+<p>
+<a href="https://public.tableau.com/de-de/s/interactive-resume-gallery">[Lab] [Optional] Resume using Tableau  </a>
    </td>
   </tr>
 </table>
