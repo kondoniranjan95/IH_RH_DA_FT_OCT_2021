@@ -27,9 +27,11 @@ Here is the list of steps to be followed (building a simple model without balanc
   - Check the accuracy on the test data.
 
  Round 3
- -  apply K-fold cross validation on your Decision Tree Classifier and check the model score.
- -  fit a Random forest Classifier on the data and compare the accuracy.
+ -  apply K-fold cross validation on your models before and check the model score.
 **Note**: So far we have not balanced the data.
+
+ Round 4
+ - fit a Random forest Classifier on the data and compare the accuracy. 
 
 Managing imbalance in the dataset
 
